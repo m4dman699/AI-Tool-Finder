@@ -1,0 +1,24 @@
+{
+  "writing": [
+    {"name": "Jasper", "desc": "Easy-to-use AI for blogs and ads.", "status": "Paid ($39/mo), trial", "url": "https://jasper.ai"},
+    {"name": "Grammarly", "desc": "Grammar and style checker for all levels.", "status": "Free, Paid ($12/mo)", "url": "https://grammarly.com"},
+    {"name": "Writesonic", "desc": "Fast SEO content generator.", "status": "Free (10k words), Paid ($12.67/mo)", "url": "https://writesonic.com"},
+    {"name": "Rytr", "desc": "Affordable and simple content tool.", "status": "Free (10k chars), Paid ($9/mo)", "url": "https://rytr.me"},
+    {"name": "Sudowrite", "desc": "Creative fiction writing assistant.", "status": "Paid ($19/mo), trial", "url": "https://sudowrite.com"},
+    {"name": "Copy.ai", "desc": "Quick marketing copy generator.", "status": "Free (2k words), Paid ($36/mo)", "url": "https://copy.ai"},
+    {"name": "QuillBot", "desc": "Easy paraphrasing for beginners.", "status": "Free, Paid ($4.17/mo)", "url": "https://quillbot.com"},
+    {"name": "ProWritingAid", "desc": "Advanced writing analysis.", "status": "Paid ($20/mo), trial", "url": "https://prowritingaid.com"},
+    {"name": "Otio", "desc": "Research and writing aid.", "status": "Free tier, Paid (varies)", "url": "https://otio.ai"},
+    {"name": "Frase", "desc": "SEO content optimization.", "status": "Paid ($35/mo), trial", "url": "https://frase.io"},
+    {"name": "HyperWrite", "desc": "AI companion for creative tasks.", "status": "Free, Paid ($19.99/mo)", "url": "https://hyperwrite.ai"},
+    {"name": "INK", "desc": "SEO and content for pros.", "status": "Free, Paid ($20/mo)", "url": "https://inkforall.com"},
+    {"name": "TextCortex", "desc": "Personalized content creation.", "status": "Free, Paid ($5.59/mo)", "url": "https://textcortex.com"},
+    {"name": "Peppertype", "desc": "Fast content for marketers.", "status": "Paid ($35/mo), trial", "url": "https://peppertype.ai"},
+    {"name": "Wordtune", "desc": "Rewrite tool for clarity.", "status": "Free, Paid ($9.99/mo)", "url": "https://wordtune.com"},
+    {"name": "Anyword", "desc": "Predictive ad copy tool.", "status": "Paid ($24/mo), trial", "url": "https://anyword.com"},
+    {"name": "Scalenut", "desc": "SEO planner for advanced users.", "status": "Paid ($20/mo), trial", "url": "https://scalenut.com"},
+    {"name": "ShortlyAI", "desc": "Minimalist creative writer.", "status": "Paid ($65/mo), trial", "url": "https://shortlyai.com"},
+    {"name": "Article Forge", "desc": "Automated article maker.", "status": "Paid ($27/mo), trial", "url": "https://articleforge.com"},
+    {"name": "Writesparkle", "desc": "Creative sparks for writers.", "status": "Free, Paid ($15/mo)", "url": "https://writesparkle.ai"}
+  ]
+}
